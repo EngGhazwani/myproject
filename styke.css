@@ -1,8 +1,8 @@
 /* styles.css */
 
 h1 {
-    color: red; /* يقوم بتحديد اللون الأحمر لعنصر h1 */
+    color: rgb(51, 104, 148); /* يقوم بتحديد اللون الأحمر لعنصر h1 */
   }
   body{
-    background-color:aquamarine;
+    background-color:rgb(173, 218, 50);
   }
